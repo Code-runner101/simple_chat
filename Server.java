@@ -38,7 +38,7 @@ public class Server {
                     outputStream.writeUTF("/end");
                     break;
                 } else {
-                    System.out.println("Client: " + str);
+                    System.out.println("The Client: " + str);
                 }
             }
 
