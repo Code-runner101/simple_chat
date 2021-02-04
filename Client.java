@@ -7,7 +7,7 @@ import java.net.Socket;
 import java.util.Scanner;
 
 public class Client {
-    private static final String SERVER_ADDRESS = "localhost";
+    private static final String SERVER_ADDRESS = "locahost";
     private static final int SERVER_PORT = 9933;
 
     public static void main(String[] args) {
